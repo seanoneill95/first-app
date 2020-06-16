@@ -1,0 +1,19 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanoneill95/first-app.git"
+  },
+  "author": "Sean O'Neill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanoneill95/first-app/issues"
+  },
+  "homepage": "https://github.com/seanoneill95/first-app#readme"
+}
